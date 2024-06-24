@@ -65,7 +65,9 @@ Join our community of developers creating universal apps.
 - CRUD for saving parties
 
 ### 3. Raid simulator
+- Raid list with categories
 - Breakpoint calculator
+- Dps/Tdo calculator
 
 ### 4. Radar
 - filter by pokemon and iv%
