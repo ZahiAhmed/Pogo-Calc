@@ -48,3 +48,25 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+# Features
+
+### 1. Pokedex 
+- Filters + show max stats
+- Pokemon show page
+- Pokemon cp calculator + movelist + evolution chain
+- eventually show ranks for pvp and raid attackers
+
+### 2. Your pokemon
+- login functionality?
+- CRUD for saving pokemon
+- CRUD for saving parties
+
+### 3. Raid simulator
+- Breakpoint calculator
+
+### 4. Radar
+- filter by pokemon and iv%
+
