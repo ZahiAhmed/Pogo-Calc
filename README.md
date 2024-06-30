@@ -51,7 +51,6 @@ Join our community of developers creating universal apps.
 
 
 
-# Features
 
 ## prep
 
@@ -60,6 +59,7 @@ Join our community of developers creating universal apps.
 
 ### 2. tailwind
 
+# Features
 
 ### 1. Pokedex 
 - Filters + show max stats
