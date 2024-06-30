@@ -54,7 +54,12 @@ Join our community of developers creating universal apps.
 # Features
 
 ## prep
+
 ### 1. look for pogo api
+- leekduck/pokebattler/gamepress
+
+### 2. tailwind
+
 
 ### 1. Pokedex 
 - Filters + show max stats
