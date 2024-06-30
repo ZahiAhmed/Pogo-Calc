@@ -53,6 +53,9 @@ Join our community of developers creating universal apps.
 
 # Features
 
+## prep
+### 1. look for pogo api
+
 ### 1. Pokedex 
 - Filters + show max stats
 - Pokemon show page
