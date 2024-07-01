@@ -57,6 +57,7 @@ Join our community of developers creating universal apps.
 ### 1. look for pogo api
 - leekduck/pokebattler/gamepress
 - [pogoapi.net](https://pogoapi.net/api)
+- [pokemon sprites](https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/1.svg)
 ### 2. tailwind
 
 # Features
