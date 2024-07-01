@@ -56,7 +56,7 @@ Join our community of developers creating universal apps.
 
 ### 1. look for pogo api
 - leekduck/pokebattler/gamepress
-
+- [pogoapi.net](https://pogoapi.net/api)
 ### 2. tailwind
 
 # Features
