@@ -60,6 +60,8 @@ Join our community of developers creating universal apps.
 - [pokemon sprites](https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/1.svg)
 ### 2. tailwind
 
+### 3. google maps api
+
 # Features
 
 ### 1. Pokedex 
