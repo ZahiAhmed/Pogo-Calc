@@ -68,6 +68,7 @@ Join our community of developers creating universal apps.
 - Pokemon cp calculator + movelist + evolution chain
 - eventually show ranks for pvp and raid attackers
 - top shadow/top mega/top base/top non-legendary
+- filter by above categories
 
 ### 2. Your pokemon
 - login functionality?
