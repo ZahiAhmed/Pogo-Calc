@@ -67,6 +67,7 @@ Join our community of developers creating universal apps.
 - Pokemon show page
 - Pokemon cp calculator + movelist + evolution chain
 - eventually show ranks for pvp and raid attackers
+- top shadow/top mega/top base/top non-legendary
 
 ### 2. Your pokemon
 - login functionality?
@@ -82,5 +83,5 @@ Join our community of developers creating universal apps.
 ### 4. Radar
 - filter by pokemon and iv%
 - google maps api
-
+- google maps switcher
 
