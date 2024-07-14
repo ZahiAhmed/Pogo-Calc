@@ -77,7 +77,9 @@ Join our community of developers creating universal apps.
 - Raid list with categories
 - Breakpoint calculator
 - Dps/Tdo calculator
+- Simulator
 
 ### 4. Radar
 - filter by pokemon and iv%
+
 
